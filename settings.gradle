@@ -1,0 +1,6 @@
+rootProject.name = 'demo'
+include 'basic'
+include 'app-run'
+include 'module-user'
+include 'module-knowledge'
+
